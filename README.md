@@ -36,7 +36,7 @@ Focusing on hardware first, will deal with software later
 
 ![ui_design](assets/ui_design.png)
 ![cad_design](assets/early_draft.png)
-![wiring diagram](assets/wiring_diagram.png)
+![wiring diagram](assets/wiring_diagram.jpg)
 
 ## BOM
 
