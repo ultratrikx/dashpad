@@ -1,5 +1,13 @@
 # Dashpad
 
+## Inspo
+
+I wanted a clean, minimal, always-on desktop dashboard. I also wanted some way to "smart" control my desk height + lights. Decided to make a macropad + dashboard in-one combo.
+
+I also love the retro-digital aesthetic and was inspired by the old-school industrial/futuristic car dashboards.
+
+So I decided to combine those two aspects. Use that aesthetic with modern data (Spotify, weather, calendar, etc.) and useful desk macros (move desk up/down, toggle lights) and make it into one cohesive package.
+
 ## BOM
 
 | Item                                                    |    Price | Link                                                                                                                                             |
