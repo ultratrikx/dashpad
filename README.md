@@ -46,7 +46,7 @@ Focusing on hardware first, will deal with software later. I will 3D print on my
 | OLED Screen 5.5” (1920×1080 AMOLED, USB-C driver board) |   Free | Owned                                                                             |
 | Raspberry Pi Zero 2 W                                   | $15USD (self-buy) | [PiShop.ca](https://www.pishop.ca/product/raspberry-pi-zero-2-w/?src=raspberrypi) |
 | 3× mechanical key switches                              |     HC | From Approved Parts                                                               |
-| Keycaps                                                 |   Free | Salvaged / 3D printed                                                             |
+| Keycaps                                                 |   HC | From Approved Parts                                                             |
 | 3D printed case & mounts                                |   Free | Custom design + printed                                                           |
 | Wires, header pins, screws                              |   Free | Owned                                                                             |
 | Custom PCB                                              |     $27USD | From Approved Parts                                                               |
