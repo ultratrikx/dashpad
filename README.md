@@ -25,11 +25,11 @@ Focusing on hardware first, will deal with software later
 
 1. Wire up Pi Zero 2 W to the AMOLED screen (USB-C driver board)
 
-2. ~~Prototype macro keys on XIAO RP2040 running KMK firmware ~~ (Might skip XIAO and wire switches directly to Pi’s GPIO if testing is smooth) -> i ended up doing this
+2. Prototype macro keys on XIAO RP2040 running KMK custom firmware. Wire up Raspi to OLED screen and connect to internal powerbank. connect xiao to computer.
 
 3. Assemble into 3D print case, refine later once screen and keys are locked in
 
-4. Hook everything to Home Assistant for desk automation
+4. Hook everything to Home Assistant for desk automation on the raspi
 
 5. Later: build simple Python/Node app to render dashboard data + setup up homeassistant to view stats + telemetry on the raspi
 
@@ -37,7 +37,7 @@ Focusing on hardware first, will deal with software later
 
 ![ui_design](assets/ui_design.png)
 ![cad_design](assets/early_draft.png)
-![wiring diagram](assets/wiring_diagram.jpg)
+![wiring diagram](assets/wiring_diagram.jpeg)
 
 ## BOM
 
@@ -50,3 +50,5 @@ Focusing on hardware first, will deal with software later
 | 3D printed case & mounts                                |   Free | Custom design + printed                                                           |
 | Wires, header pins, screws                              |   Free | Owned                                                                             |
 | Custom PCB                                              |     HC | From Approved Parts                                                               |
+| Xiao RP2040 | Free | From Approved parts|
+| Powerbank | Free | Owned |
