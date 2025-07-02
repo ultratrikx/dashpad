@@ -21,7 +21,7 @@ So I decided to combine those two aspects. Use that aesthetic with modern data (
 
 ## Build Plan
 
-Focusing on hardware first, will deal with software later
+Focusing on hardware first, will deal with software later. I will 3D print on my own.
 
 1. Wire up Pi Zero 2 W to the AMOLED screen (USB-C driver board)
 
