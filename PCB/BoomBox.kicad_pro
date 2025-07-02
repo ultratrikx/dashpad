@@ -486,7 +486,7 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "C:/Users/Rohan/Downloads/",
+      "plot": "./",
       "pos_files": "",
       "specctra_dsn": "",
       "step": "BoomBox.step",
