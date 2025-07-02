@@ -21,3 +21,7 @@ Total Hours: 6
 
 **wiring diagram**
 ![wiring diagram](assets/wiring_diagram.jpg)
+
+2 July 2025: 2 hours
+- fixed up some issues with submission
+- redid my case design to meet requirements
