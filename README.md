@@ -1,3 +1,4 @@
+
 # Dashpad
 
 ## Inspo
@@ -24,23 +25,28 @@ Focusing on hardware first, will deal with software later
 
 1. Wire up Pi Zero 2 W to the AMOLED screen (USB-C driver board)
 
-2. Prototype macro keys on XIAO RP2040 running KMK firmware (Might skip XIAO and wire switches directly to Pi’s GPIO if testing is smooth)
+2. ~~Prototype macro keys on XIAO RP2040 running KMK firmware ~~ (Might skip XIAO and wire switches directly to Pi’s GPIO if testing is smooth) -> i ended up doing this
 
 3. Assemble into 3D print case, refine later once screen and keys are locked in
 
 4. Hook everything to Home Assistant for desk automation
 
-5. Later: build simple Python/Node app to render dashboard data
+5. Later: build simple Python/Node app to render dashboard data + setup up homeassistant to view stats + telemetry on the raspi
+
+## Pictures
+
+![ui_design](assets/ui_design.png)
+![cad_design](assets/early_draft.png)
+![wiring diagram](assets/wiring_diagram.jpg)
 
 ## BOM
 
-| Item                                                    |  Price | Link                    |
-| ------------------------------------------------------- | -----: | ----------------------- |
-| OLED Screen 5.5” (1920×1080 AMOLED, USB-C driver board) |   Free | Owned                   |
-| Raspberry Pi Zero 2 W                                   | $15USD | [PiShop.ca](https://www.pishop.ca/product/raspberry-pi-zero-2-w/?src=raspberrypi) |    
-| XIAO RP2040 microcontroller                             |   Free | From Approved Parts     |
-| 3× mechanical key switches                              |     HC | From Approved Parts     |
-| Keycaps                                                 |   Free | Salvaged / 3D printed   |
-| 3D printed case & mounts                                |   Free | Custom design + printed |
-| Wires, header pins, screws                              |   Free | Owned                   |
-| Custom PCB                                              |     HC | From Approved Parts     |
+| Item                                                    |  Price | Link                                                                              |
+| ------------------------------------------------------- | -----: | --------------------------------------------------------------------------------- |
+| OLED Screen 5.5” (1920×1080 AMOLED, USB-C driver board) |   Free | Owned                                                                             |
+| Raspberry Pi Zero 2 W                                   | $15USD | [PiShop.ca](https://www.pishop.ca/product/raspberry-pi-zero-2-w/?src=raspberrypi) |
+| 3× mechanical key switches                              |     HC | From Approved Parts                                                               |
+| Keycaps                                                 |   Free | Salvaged / 3D printed                                                             |
+| 3D printed case & mounts                                |   Free | Custom design + printed                                                           |
+| Wires, header pins, screws                              |   Free | Owned                                                                             |
+| Custom PCB                                              |     HC | From Approved Parts                                                               |
