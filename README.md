@@ -44,11 +44,11 @@ Focusing on hardware first, will deal with software later. I will 3D print on my
 | Item                                                    |  Price | Link                                                                              |
 | ------------------------------------------------------- | -----: | --------------------------------------------------------------------------------- |
 | OLED Screen 5.5” (1920×1080 AMOLED, USB-C driver board) |   Free | Owned                                                                             |
-| Raspberry Pi Zero 2 W                                   | $15USD | [PiShop.ca](https://www.pishop.ca/product/raspberry-pi-zero-2-w/?src=raspberrypi) |
+| Raspberry Pi Zero 2 W                                   | $15USD (self-buy) | [PiShop.ca](https://www.pishop.ca/product/raspberry-pi-zero-2-w/?src=raspberrypi) |
 | 3× mechanical key switches                              |     HC | From Approved Parts                                                               |
 | Keycaps                                                 |   Free | Salvaged / 3D printed                                                             |
 | 3D printed case & mounts                                |   Free | Custom design + printed                                                           |
 | Wires, header pins, screws                              |   Free | Owned                                                                             |
-| Custom PCB                                              |     HC | From Approved Parts                                                               |
-| Xiao RP2040 | Free | From Approved parts|
+| Custom PCB                                              |     $27USD | From Approved Parts                                                               |
+| Xiao RP2040 | HC | From Approved parts|
 | Powerbank | Free | Owned |
