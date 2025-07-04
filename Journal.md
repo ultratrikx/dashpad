@@ -34,3 +34,8 @@ Total Hours: 6
 2 July 2025: 2 hours
 - fixed up some issues with submission
 - redid my case design to meet requirements
+- redid pcb to fix issues in it
+- created outline of formware for raspi side of things
+
+4 July 2025: < 1 hour
+- added images for prev. updated aspects
