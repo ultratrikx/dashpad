@@ -36,7 +36,7 @@ Focusing on hardware first, will deal with software later. I will 3D print on my
 ## Pictures
 
 ![ui_design](assets/IMG_5528.png)
-![pcb_render](assets/wires.png)
+![pcb_render](assets/wires.PNG)
 ![wiring_render](assets/wiress.PNG)
 ![schematic_render](assets/schem.PNG)
 ![cad_design](assets/IMG_5602.jpeg)
