@@ -1,6 +1,9 @@
 
 # Dashpad
 
+## Demo:
+https://youtube.com/shorts/Ka6VMjJbjnY?feature=share
+
 ## Inspo
 
 I wanted a clean, minimal, always-on desktop dashboard. I also wanted some way to "smart" control my desk height + lights. Decided to make a macropad + dashboard in-one combo.
