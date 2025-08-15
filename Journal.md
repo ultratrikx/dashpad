@@ -39,3 +39,8 @@ Total Hours: 6
 
 4 July 2025: < 1 hour
 - added images for prev. updated aspects
+
+14 August 2025: 1 Hour
+- soldering parts together since they FINALLY arrived. built hackpad. OLED screen I ordered on my own DID NOT ship in time so I had to ditch it for the submission, as well as the case since I needed to actually recieve the OLED screen in time to ensure the sizing was right and I didn't want to waste filament.
+- submission was so cooked, literally an hour before the deadline. heres a video of it linked with my Mac and running -> https://youtube.com/shorts/Ka6VMjJbjnY?feature=share
+- once my big OLED screen arrives, I'll update and add demo here haha.
